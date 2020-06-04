@@ -1,0 +1,2 @@
+include ':app', ':refresh_lib'
+rootProject.name='My Application'
